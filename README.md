@@ -96,7 +96,4 @@ This project is licensed under the **MIT License** — feel free to use and modi
 
 ```
 
----
-
-Would you like me to make this **more concise** (for GitHub front page) or keep it in **detailed professional format** (for portfolio + recruiters)?
 ```
