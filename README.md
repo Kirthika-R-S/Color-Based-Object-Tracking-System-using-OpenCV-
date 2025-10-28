@@ -42,13 +42,16 @@ It detects and tracks colored objects using the **HSV (Hue, Saturation, Value)**
 2. Install required dependencies:
 
    ```bash
-   pip install opencv-python numpy pillow scipy scikit-image pyautogui imutils
+   pip install opencv-python
+   pip install opencv-contrib-python
+   pip install  pandas numpy imutils pillow scipy scikit-image pyautogui
    ```
 
 3. Run the application:
 
    ```bash
-   python main.py
+    python colorCalibrationforHSV.py  (for choosing the HSV values of the object)
+    python main.py
    ```
 
 ---
